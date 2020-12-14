@@ -136,12 +136,13 @@ determine when your work was submitted.
 ## Grading
 
 #### Computational Thinking
-| Advanced                                                                         | Proficient                                                                  | Basic                                                                                                                      | Below Basic                                            |
-|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Student creates 5 different enemy types                                          | Student creates the 3 basic enemies for Milestone 3                         | Student completes all of the Tutorial Video features                                                                       | Student does not complete all features in video series |
-| Student creates a health variable to give the Tofu Character multiple hit points | Student utilizes most of the provided tile sprites to create a unique scene | The Tofu can Jump, Walk left and right, and is animated based on the direction of facing                                   |                                                        |
-| Student proposes and implements a unique feature                                 | Student adds Spikes that cause the Tofu to respawn on touching              | Enemy animates the direction of facing and patrols on a platform, knocks back the Tofu, and is destroyed when jumped upon. |                                                        |
-|                                                                                  | Student completes all non-bonus features listed in this README.md           |                                                                                                                            |                                                        |
+| Advanced                                 | Proficient                               | Basic                                              | Below Basic                                            |
+|------------------------------------------|------------------------------------------|----------------------------------------------------|--------------------------------------------------------|
+| Student implements 5 additional features | Student implements 3 additional features | Student completes all features from project videos | Student does not complete all features in video series |
+|                                          | Student completes 2 of the 3 challenges  |                                                    |                                                        |
+|                                          |                                          |                                                    |                                                        |
+|                                          |                                          |                                                    |                                                        |
+
 ### Computing, Programming and Practice
 
 Demonstrate how you tested your assignment, write comments, and provide well
