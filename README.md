@@ -136,12 +136,12 @@ determine when your work was submitted.
 ## Grading
 
 #### Computational Thinking
-| Advanced                                 | Proficient                               | Basic                                              | Below Basic                                            |
-|------------------------------------------|------------------------------------------|----------------------------------------------------|--------------------------------------------------------|
-| Student implements 5 additional features | Student implements 3 additional features | Student completes all features from project videos | Student does not complete all features in video series |
-|                                          | Student completes 2 of the 3 challenges  |                                                    |                                                        |
-|                                          |                                          |                                                    |                                                        |
-|                                          |                                          |                                                    |                                                        |
+| Advanced                                 | Proficient                                                                   | Basic                                              | Below Basic                                            |
+|------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------|
+| Student implements 5 additional features | Student implements 3 additional features (2 features from Milestone 2 count) | Student completes all features from project videos | Student does not complete all features in video series |
+|                                          | Student completes 2 of the 3 challenges                                      |                                                    |                                                        |
+|                                          |                                                                              |                                                    |                                                        |
+|                                          |                                                                              |                                                    |                                                        |
 
 ### Computing, Programming and Practice
 
